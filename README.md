@@ -76,8 +76,3 @@ Contributions and suggestions are welcome—especially around safe parallelizati
 
 - The script requires `sudo` for APT/nala operations. Flatpak may also require elevation depending on your installation (system vs user).
 - If you prefer `apt` over `nala`, you can adapt the APT section easily; the script is intentionally simple to customize.
-
---- 
-
-If you want, I can also generate the actual `pkg-swiss-knife.sh` implementation that matches this README (with clear functions, basic logging, and safe defaults).
-
